@@ -2,3 +2,4 @@ agno
 openai
 pandas
 python-dotenv
+streamlit
