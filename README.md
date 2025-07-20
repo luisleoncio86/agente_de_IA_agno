@@ -62,7 +62,7 @@ Este projeto demonstra como criar um agente inteligente com o framework **Agno**
 - Qual cidade tem o maior total de vendas realizadas por mulheres?
 - De qual departamento os clientes do gênero feminino mais compram?
 
-## 🌈 Interface Web
+## Interface Web
 
 A interface web utiliza Streamlit e possui um visual escuro inspirado no ChatGPT, proporcionando uma experiência moderna e agradável para análise de dados.
 
